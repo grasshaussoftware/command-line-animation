@@ -1,4 +1,5 @@
 # command-line-animation
+made with the help of Gemini AI
 # Sleep Spinner Usage
 
 ### How to use it
